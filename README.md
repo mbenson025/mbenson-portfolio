@@ -27,13 +27,18 @@ A compilation of professional skills and work sample references from application
 
 ## Screenshots
 
-Screenshots:
-
-<!-- <img src="./assets/images/portscreen1.jpg" alt="title and nav links" title="Navigation Screen">
-<img src="./assets/images/portscreen2.jpg" alt="about me text" title="About Me">
-<img src="./assets/images/portscreen3.jpg" alt="large pic of hiking project" title="My Work Main">
-<img src="./assets/images/portscreen4.jpg" alt="other projects" title="Other Work">
-<img src="./assets/images/portscreen5.jpg" alt="contact section" title="Contact Me"> -->
+<img src="/public/img/topsection.jpg" alt="landing page" title="Landing Page">
+<br>
+<br>
+<img src="/public/img/about.jpg" alt="about section" title="About Me Section">
+<br>
+<br>
+<img src="/public/img/portfolio.jpg" alt="portfolio projects" title="Projects and Work Section">
+<br>
+<br>
+<img src="/public/img/resume.jpg" alt="resume section" title="My Resume">
+<br>
+<br>
 
 <br><br/>
 
